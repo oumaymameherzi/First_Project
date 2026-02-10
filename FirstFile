@@ -1,0 +1,4 @@
+# Exemple de code Python
+print("Bonjour GitHub !")
+for i in range(5):
+    print(f"Ligne {i+1}")
